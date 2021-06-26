@@ -373,7 +373,7 @@ To use Disqus you'll need to create an account and [shortname](https://help.disq
 comments:
   provider: "disqus"
   disqus:
-    shortname: "seongjinpark1-github-io"
+    shortname: "your-disqus-shortname"
 ```
 
 #### Discourse
