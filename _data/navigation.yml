@@ -4,7 +4,7 @@ main:
     url: https://seongjinpark1.github.io/
   - title: "About"
     url: /about/
-  - title: "블로그 만들"
+  - title: "블로그 만들기"
     url: /makingBlog/
 - title: "Categories"
     url: /categories/
