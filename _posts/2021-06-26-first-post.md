@@ -1,9 +1,9 @@
 ---
-title: "github.io 블로그 시작하기"
+title: "project"
 excerpt: "GitHub Blog 서비스인 github.io 블로그 시작하기로 했다."
 
 categories:
-  - Blog1
+  - project
 tags:
   - Blog1
   - 박성진1
