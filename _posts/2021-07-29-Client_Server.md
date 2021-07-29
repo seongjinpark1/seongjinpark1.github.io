@@ -1,6 +1,6 @@
 ---
 title: '클라이언트-서버'
-excerpt: '클라이언트 서버 아키텍처, URL&URL, IP&PORT, Domain&DNS'
+excerpt: '클라이언트 서버 아키텍처, URL&URI, IP&PORT, Domain&DNS'
 
 categories:
     - TIL
