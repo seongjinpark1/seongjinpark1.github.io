@@ -1,5 +1,5 @@
 ---
-title: '자바스크립트에서 비동기를 어떻게 다루는가?'
+title: '비동기'
 excerpt: 'callback, promise, async&await'
 
 categories:
