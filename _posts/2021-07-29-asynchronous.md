@@ -1,5 +1,5 @@
 ---
-title: '비동기'
+title: 'Asynchronous'
 excerpt: 'callback, promise, async&await'
 
 categories:
