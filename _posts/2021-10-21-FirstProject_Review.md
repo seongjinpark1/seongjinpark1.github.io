@@ -1,6 +1,6 @@
 ---
-title: '첫번쨰 프로젝트를 마치며...'
-excerpt: '첫번쨰 프로젝트를 마치며...'
+title: '첫번째 프로젝트를 마치며...'
+excerpt: '첫번째 프로젝트를 마치며...'
 
 categories:
   - Project
