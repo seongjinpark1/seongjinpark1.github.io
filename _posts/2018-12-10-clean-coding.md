@@ -1,5 +1,5 @@
 ---
-title: Clean Coding
+title: Test111
 tags: [Software Development, Clean Code]
 style: fill
 color: info
@@ -17,13 +17,13 @@ Today, the overall quality of our codebases are significantly better thanks in l
 Out of all the ideas we implemented from Clean Code and other sources, five provided at least 80% of the gains in productivity and team happiness.
 
 1. **“If it isn’t tested, it’s broken”**  
-    Write lots of tests, especially unit tests, or you’ll regret it.
+   Write lots of tests, especially unit tests, or you’ll regret it.
 1. **Choose meaningful names**  
-    Use short and precise names for variables, classes, and functions.
+   Use short and precise names for variables, classes, and functions.
 1. **Classes and functions should be small and obey the Single Responsibility Principle (SRP)**  
-    Functions should be no more than 4 lines and classes no more than 100 lines. Yep, you read that correctly. They should also do one and only one thing.
+   Functions should be no more than 4 lines and classes no more than 100 lines. Yep, you read that correctly. They should also do one and only one thing.
 1. **Functions should have no side effects**  
-    Side effects (e.g., modifying an input argument) are evil. Make sure not to have them in your code. Specify this explicitly in the function contracts where possible (e.g., pass in native types or objects that have no setters)
+   Side effects (e.g., modifying an input argument) are evil. Make sure not to have them in your code. Specify this explicitly in the function contracts where possible (e.g., pass in native types or objects that have no setters)
 
 Let’s walk through each one in detail so you can understand and start applying them in your day-to-day life on an engineering team.
 
