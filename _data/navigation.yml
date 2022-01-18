@@ -1,0 +1,14 @@
+# main links
+main:
+  - title: "Home"
+    url: https://seongjinpark1.github.io/
+  - title: "Project"
+    url: /categories/Project
+  - title: "TIL"
+    url: /categories/TIL
+  - title: "Categories"
+    url: /categories/
+  - title: "Tags"
+    url: /tags/
+  - title: "About"
+    url: /about/
