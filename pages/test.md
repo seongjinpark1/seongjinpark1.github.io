@@ -2,7 +2,7 @@
 layout: page
 title: Test
 permalink: /test/
-weight: 3
+weight: 4
 ---
 
 # **About Me**
