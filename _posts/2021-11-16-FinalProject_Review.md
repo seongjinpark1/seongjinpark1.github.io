@@ -1,9 +1,10 @@
 ---
-title: 'CSS float속성'
-tags: [TIL, Css]
+title: 'Final Project를 마치며'
+tags: [TIL, Review]
 style: fill
-color: info
-description: 'CSS에서 float속성은 레이아웃을 잡는데 사용하는 속성이며 붕 뜬다는 의미이다.'
+color: warning
+description: 'First Project부터 Final Project까지 6주의 길다면 길고 짧다면 짧은 시간이 지나갔다.
+이번 Final Project의 첫 주제를 정할때, 기존에 존재하지 않는 유니크한 아이템의 웹 사이트를 제작 하고 싶었고, ~~내가아는한~~ 국내에는 연구원을 위한 펀딩이 없었기 때문에 자본이 없어 연구를 하지 못하는 연구원들을 위해 연구펀딩 사이트를 제작하게 되었다.'
 ---
 
 First Project부터 Final Project까지 6주의 길다면 길고 짧다면 짧은 시간이 지나갔다.
