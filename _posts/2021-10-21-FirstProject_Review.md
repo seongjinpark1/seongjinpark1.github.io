@@ -2,7 +2,7 @@
 title: 'First Project를 마치며'
 tags: [TIL, Review]
 style: fill
-color: dark
+color: info
 description: 'First Project를 마치며'
 ---
 

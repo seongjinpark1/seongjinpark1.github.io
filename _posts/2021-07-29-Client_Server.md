@@ -2,7 +2,7 @@
 title: '클라이언트-서버'
 tags: [TIL, JavaScript, CS]
 style: fill
-color: dark
+color: info
 description: '클라이언트 서버 아키텍처, URL&URI, IP&PORT, Domain&DNS'
 ---
 
