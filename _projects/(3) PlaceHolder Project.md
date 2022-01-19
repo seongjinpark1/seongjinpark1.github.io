@@ -7,5 +7,5 @@ description:
 우리가 함께 살아가는 세상의 다양하고 복잡한 현상들, 좀 더 면밀하게 알아가고 싶지 않으신가요?
 여기 세상의 다양한 궁금증과 문제 해결을 위한 흥미로운 연구들이 있습니다.
 세상에 꼭 필요한 지식의 든든한 스폰서가 되어주세요! 💁🏼 💁🏻‍♀️
-external_url: https://jisiksponsor.com/
+external_url: https://www.google.com
 ---
