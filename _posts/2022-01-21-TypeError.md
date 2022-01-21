@@ -2,7 +2,7 @@
 title: '[Error]EventTarget 형식에 id 속성이 없습니다.'
 tags: [TIL, Error]
 style: fill
-color: warning
+color: danger
 description: '타입스크립트를 사용하면서 event target에 속성을 사용할 일이 있어 위와 같이 event의 타입을 지정해주었고 id값을 이용하려 하는데
 '
 ---
