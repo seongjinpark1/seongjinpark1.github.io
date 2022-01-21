@@ -1,6 +1,6 @@
 ### Site Settings ###
 title: Hello, World
-description: >-
+description: >- Welcome to My Blog👋
 
 baseurl: '/' # Change to empty quotes if you are hosting your site at <your-username>.github.io directly
 # repository: YoussefRaafatNasry/portfolYOU # Change to <your-username>/<your-username>.github.io (or remove it if you don't need remote projects)
